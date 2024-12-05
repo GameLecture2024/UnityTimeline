@@ -1363,7 +1363,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogue: {fileID: 1384942546}
-  typeSpeed: 0.05
+  typeSpeed: 0.1
 --- !u!114 &1384942546
 MonoBehaviour:
   m_ObjectHideFlags: 0
